@@ -1,6 +1,7 @@
 {
   "scripts" : {
-    "dev" : "nodemon index"
+    "dev" : "nodemon index",
+    "start" : "node index"
   },
   "type": "module",
   "name": "express-server",
